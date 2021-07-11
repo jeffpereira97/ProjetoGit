@@ -1,0 +1,1 @@
+Saudações. Este projeto ensina a utilizar o Git.
